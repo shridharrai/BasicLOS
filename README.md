@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) 
 
 <br>
-8 It is a CoreJava based application of basic loan Organisation system in which the approval of load is decided and on the basis of user informations.
+* It is a CoreJava based application of basic loan Organisation system in which the approval of load is decided and on the basis of user informations.
 
 ## Screenshots 
 ![](https://github.com/shridharrai/BasicLOS/blob/master/src/com/brainmentors/los/Los1.PNG)
